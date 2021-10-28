@@ -1,7 +1,7 @@
 print(" --- sds --- ")
 import os,sys
 
-sys.path.append("../core/")
+sys.path.append("../mc_core/")
 import mcdev_core_config as corecfg
 
 # ---------------------------------------------------------
